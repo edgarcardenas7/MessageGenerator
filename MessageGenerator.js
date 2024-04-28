@@ -13,4 +13,3 @@ const dailyAffirmations = [
   
   // Test the function
   console.log(generateDailyAffirmation());
-  
